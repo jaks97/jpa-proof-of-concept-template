@@ -12,9 +12,6 @@
         <class>paddle.Partido</class>
         <class>paddle.Reserva</class>
         <class>paddle.Jugador</class>
-        <class>paddle.Paleta</class>
-        <class>paddle.Contructor</class>
-        <class>paddle.Participacion</class>
 
 
         <properties>
